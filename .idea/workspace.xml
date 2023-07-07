@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aacc0898-6840-4d08-bbfe-18d1597d517a" name="Changes" comment="Car logo added" />
+    <list default="true" id="aacc0898-6840-4d08-bbfe-18d1597d517a" name="Changes" comment="CarDataSet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +76,28 @@
       <option name="project" value="LOCAL" />
       <updated>1688734994367</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Car logo added">
+      <created>1688735024602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688735024602</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CarDataSet">
+      <created>1688735255454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688735255454</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CarDataSet">
+      <created>1688735296348</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688735296348</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Car logo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Car logo added" />
+    <MESSAGE value="CarDataSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="CarDataSet" />
   </component>
 </project>
